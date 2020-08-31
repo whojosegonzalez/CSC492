@@ -1,3 +1,3 @@
 # CSC492
 
-# Hello
+# Hello world!
